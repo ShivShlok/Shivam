@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivam
 - 👀 I’m interested in data science
-- 🌱 I’m currently final year student
+- 🌱 I’m currently completed my graduation
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me mishra.shivam.19020@gmail.com
 
